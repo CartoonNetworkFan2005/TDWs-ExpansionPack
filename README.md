@@ -1,2 +1,3 @@
-# Funky-CharPack
-The expansion pack to Friday Night Funkin'!
+# ThatOneArrow's Funky Character Pack!
+
+## This revived repository is under construction. Check back later.
