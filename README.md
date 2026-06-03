@@ -1,3 +1,3 @@
 # ThatOneArrow's Funky Character Pack!
 
-## This revived repository is under construction. Check back later.
+### This revived repository is under construction. Check back later.
