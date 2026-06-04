@@ -1,3 +1,3 @@
-# ThatOneArrow's Funky Character Pack!
+# Friday Night Funkin': ThatOneArrow's Expansion Pack!
 
 ### This revived repository is under construction. Check back later.
